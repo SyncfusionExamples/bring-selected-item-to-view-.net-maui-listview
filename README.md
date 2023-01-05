@@ -1,2 +1,1 @@
-# bring-selected-item-to-view-.net-maui-listview
-How to automatically scroll to bring the selected item into the view in .NET MAUI ListView (SfListView) ?
+**[View document in Syncfusion .NET MAUI Knowledge Base]([https://www.syncfusion.com/kb/13202/how-to-add-a-separator-between-items-in-net-maui-listview-sflistview](https://www.syncfusion.com/kb/13806/how-to-automatically-scroll-to-bring-the-selected-item-into-the-view-in-net-maui-listview))**
